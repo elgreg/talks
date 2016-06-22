@@ -1,0 +1,156 @@
+[
+    "001.html",
+    "whoami.html",
+    "the-amazon-echo.html",
+    "demo.html",
+    "flash-briefing.html",
+    {
+        "filename": "device-amazon-echo.html",
+        "description": "Devices: Echo",
+        "attr": {
+            "data-background-image": "resources/img/amazon_echo_boxed.png",
+            "data-background-size": "auto"
+        }
+    },
+    {
+        "filename": "tap-and-dot.html",
+        "description": "Devices: Tap and Dot",
+        "attr": {
+            "data-background": "resources/img/amazon_tap_and_dot.jpg",
+            "data-background-color": "#fff"
+        }
+    },
+    {
+        "filename": "fire-stick.html",
+        "attr": {
+            "data-background": "resources/img/amazon_fire_stick.jpg",
+            "data-background-color": "#000"
+        }
+    },
+    {
+        "filename": "fire-tv.html",
+        "attr": {
+            "data-background": "resources/img/amazon_fire_tv.jpg",
+            "data-background-color": "#000"
+        }
+    },
+    {
+        "filename": "triby.html",
+        "attr": {
+            "data-background": "resources/img/triby.png",
+            "data-background-color": "#fff",
+            "data-state": "alignSectionTop"
+        }
+    },
+    {
+        "filename": "alexa-voice-service.html",
+        "attr": {
+            "data-background": "resources/img/amazon_voice_service.png"
+        }
+    },
+    {
+        "filename": "google-home.html",
+        "attr": {
+            "data-background": "resources/img/google_home.jpg",
+            "data-background-color": "#fff",
+            "data-state": "alignSectionTop"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "resources/img/apple_siri.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "resources/img/microsoft_cortana.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "resources/img/facebook_m.jpg",
+            "data-background-color": "#fff",
+            "data-background-size": "auto"
+        }
+    },
+    {
+        "filename": "setting-up-your-flash-briefing.html",
+        "attr": {
+            "data-state": "splitScreen alignSectionTop"
+        }
+    },
+    {
+        "filename": "is-it-worth-it.html"
+    },
+    {
+        "filename": "amazon-metrics.html",
+        "attr": {
+            "data-background": "resources/img/flash_briefing_metrics.png",
+            "data-background-color": "#fff"
+        }
+    },
+    {
+        "filename": "megaphone-metrics.html",
+        "attr": {
+            "data-background": "resources/img/megaphone_export.png",
+            "data-background-size": "contain"
+        }
+    },
+    "sponsorsed-content.html",
+    "the-actual-tech-behind-the-flash-briefing.html",
+    {
+        "filename": "myslate-feed.html"
+    },
+    {
+        "filename": "megaphone-feed.html",
+        "attr": {
+            "data-background": "resources/img/megaphone_feed.png",
+            "data-background-size": "contain"
+        }
+    },
+    "flash-briefing-notes.html",
+    "invite-only.html",
+    "audio-reading-text.html",
+    "for-generated-feeds-structured-data-is-a-must.html",
+    [
+        {
+            "filename": "the-slatest.html",
+            "attr": {
+                "data-state": "splitScreen alignSectionTop"
+            }
+        },
+        {
+            "filename": "the-slatest-002.html",
+            "attr": {
+                "data-state": "splitScreen alignSectionTop"
+            }
+        },
+        {
+            "filename": "the-slatest-003.html",
+            "attr": {
+                "data-state": "splitScreen alignSectionTop"
+            }
+        }
+    ],
+    "flash-briefing-cons.html",
+    "flash-briefing-pros.html",
+    "beyond-the-flash-briefing.html",
+    {
+        "filename": "alexa-skills-kit.html",
+        "attr": {
+            "data-background": "resources/img/amazon_alexa_skills_kit.png"
+        }
+    },
+    {
+        "filename": "alexa-skills-kit-process.html",
+        "attr": {
+            "data-background": "resources/img/amazon_alexa_skill_create_new.png"
+        }
+    },
+    {
+        "filename": "alexa-skills-kit-process-cont.html",
+        "attr": {
+            "data-state": "splitScreen alignSectionTop"
+        }
+    }
+]

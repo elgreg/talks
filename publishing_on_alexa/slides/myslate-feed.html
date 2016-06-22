@@ -1,0 +1,36 @@
+<pre><code data-trim data-noescape>
+{
+  <span class="fragment highlight-blue" data-fragment-index="1">"streamUrl": "https://traffic.megaphone.fm/SM6798775679.mp3",</span>
+  "art": {
+    "images": [
+      {
+        "url": "https://s3.amazonaws.com/slate-static-prod/amazon-alexa/test/slate_512x512.png",
+        "width": 512,
+        "height": 512
+      }
+    ],
+    "attribution": "Slate"
+  },
+  <span class="fragment highlight-blue" data-fragment-index="2">"uid": "fd767266-1709-11e6-8c7d-2f1e9063b007",</span>
+  "redirectionUrl": "http://www.slate.com",
+  <span class="fragment highlight-blue" data-fragment-index="3">"updateDate": "2016-06-20T20:42:03.0Z",</span>
+  <span class="fragment highlight-blue" data-fragment-index="3">"mainText": "Dan Kois talks to Meg Weigand (native Ohioan and beer expert) on great Ohio microbrews.",</span>
+  <span class="fragment highlight-blue" data-fragment-index="3">"titleText": "Celebrating the Cavaliers with Ohio Beers"</span>
+}
+</code></pre>
+
+<aside class="notes">
+  <p>They grab this feed once every 15 minutes or so (there's no SLA)</p>
+
+  <p>What's interesting about this?</p>
+
+    <p>The streamUrl is the MP3 that Alexa will start playing. If we don't have that,
+    she'll read the mainText in her own voice</p>
+
+    <p>We learned that the ID can't change... we just change the streamUrl, updateDate, mainText, and titleText</p>
+
+    <p>It's only one item. If you provide a list, Alexa will read all of them... and your Amazon rep will
+    tell you if that's ok (hint: it's probably not).</p>
+
+    <p>This isn't really like a regular feed - they're going to read the whole thing if you give it to them. In our case, we just added an implied limit of 1 to this. So this URL http://my.slate.com/proxies/alexa/audio_flash_briefing/?limit=20 would show 20 of them... albeit with the same ID.</p>
+</aside>

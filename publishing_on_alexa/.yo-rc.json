@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Publishing on Amazon Alexa",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": false
+  }
+}
