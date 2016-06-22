@@ -152,5 +152,25 @@
         "attr": {
             "data-state": "splitScreen alignSectionTop"
         }
+    },
+    {
+        "filename": "alexa-skills-authorization.html",
+        "attr": {
+            "data-background": "resources/img/amazon_alexa_authorization.png",
+            "data-background-size": "contain"
+        }
+    },
+    {
+        "filename": "alexa-skills-authorization-via-app.html",
+        "attr": {
+            "data-state": "splitScreen alignSectionTop"
+        }
+    },
+    "how-are-we-doing-on-time.html",
+    {
+        "filename": "your-new-future-with-voice-interfaces.html",
+        "attr": {
+            "data-background": "#ff0000"
+        }
     }
 ]
