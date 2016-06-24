@@ -1,7 +1,12 @@
 [
     "001.html",
-    "whoami.html",
-    "the-amazon-echo.html",
+    {
+      "filename":  "the-amazon-echo.html",
+      "attr": {
+        "data-background-image": "resources/img/amazon_echo_boxed.png",
+        "data-background-size": "contain"
+      }
+    },
     "demo.html",
     "flash-briefing.html",
     {
@@ -62,15 +67,18 @@
         }
     },
     {
+        "filename": "microsoft-cortana.html",
         "attr": {
-            "data-background": "resources/img/microsoft_cortana.png"
+            "data-background": "resources/img/microsoft_cortana.jpg",
+            "data-background-size": "contain",
+            "data-background-color": "#000"
         }
     },
     {
         "attr": {
-            "data-background": "resources/img/facebook_m.jpg",
-            "data-background-color": "#fff",
-            "data-background-size": "auto"
+            "data-background": "resources/img/facebook_m_dark.jpg",
+            "data-background-color": "#000",
+            "data-background-size": "contain"
         }
     },
     {
@@ -86,14 +94,8 @@
         "filename": "amazon-metrics.html",
         "attr": {
             "data-background": "resources/img/flash_briefing_metrics.png",
+            "data-background-size": "contain",
             "data-background-color": "#fff"
-        }
-    },
-    {
-        "filename": "megaphone-metrics.html",
-        "attr": {
-            "data-background": "resources/img/megaphone_export.png",
-            "data-background-size": "contain"
         }
     },
     "sponsorsed-content.html",
@@ -166,11 +168,25 @@
             "data-state": "splitScreen alignSectionTop"
         }
     },
-    "how-are-we-doing-on-time.html",
+    [
+      "how-are-we-doing-on-time.html",
+      {
+        "filename": "a-look-at-intents.html"
+      },
+      {
+        "filename": "a-look-at-sample-utterances.html"
+      },
+      {
+        "filename": "a-look-at-aws-lambda.html",
+        "attr": {
+          "data-state": "splitScreen alignSectionTop"
+        }
+      }
+    ],
     {
         "filename": "your-new-future-with-voice-interfaces.html",
         "attr": {
-            "data-background": "#ff0000"
         }
-    }
+    },
+    "thanks.html"
 ]
