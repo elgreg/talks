@@ -1,0 +1,48 @@
+[
+    "index.md",
+    {
+        "filename": "a-metaphor.md",
+        "attr": {
+            "data-separator": "^\n\n\n",
+            "data-separator-vertical": "^\n\n",
+            "data-separatornotes": "^Note:",
+            "data-charset": "UTF-8"
+        }
+    },
+    "a-sandwich.html",
+    {
+        "filename": "metaphor-explanation.md",
+        "attr": {
+            "data-separator": "^\n\n\n",
+            "data-separator-vertical": "^\n\n",
+            "data-separatornotes": "^Note:",
+            "data-charset": "UTF-8"
+        }
+    },
+    "bread.html",
+    "tomato-sauce.html",
+    "chicken-cutlets.html",
+    "fried-chicken.html",
+    "arugula.html",
+    "cheese.html",
+    "paper.html",
+    {
+        "filename": "some-terms.md",
+        "attr": {
+            "data-separator": "^\n\n\n",
+            "data-separator-vertical": "^\n\n",
+            "data-separatornotes": "^Note:",
+            "data-charset": "UTF-8"
+        }
+    },
+    {
+        "filename": "enough-with-the-metaphors.md",
+        "attr": {
+            "data-separator": "^\n\n\n",
+            "data-separator-vertical": "^\n\n",
+            "data-separatornotes": "^Note:",
+            "data-charset": "UTF-8"
+        }
+    },
+    "browser-caching-is-the-wild-west.md"
+]
