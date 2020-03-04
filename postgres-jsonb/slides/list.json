@@ -1,0 +1,71 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-separator": "^\n\n\n",
+            "data-separator-vertical": "^\n\n",
+            "data-separatornotes": "^Note:",
+            "data-charset": "UTF-8"
+        }
+    },
+    {
+        "filename": "what-is-postgres.md",
+        "attr": {
+            "data-separator": "^\n\n\n",
+            "data-separator-vertical": "^\n\n",
+            "data-separatornotes": "^Note:",
+            "data-charset": "UTF-8"
+        }
+    },
+    {
+        "filename": "what-is-sql.md",
+        "attr": {
+            "data-separator": "^\n\n\n",
+            "data-separator-vertical": "^\n\n",
+            "data-separatornotes": "^Note:",
+            "data-charset": "UTF-8"
+        }
+    },
+    {
+        "filename": "what-s-a-database.md",
+        "attr": {
+            "data-separator": "^\n\n\n",
+            "data-separator-vertical": "^\n\n",
+            "data-separatornotes": "^Note:",
+            "data-charset": "UTF-8"
+        }
+    },
+    {
+        "filename": "key-value-stores.md",
+        "attr": {
+            "data-separator": "^\n\n\n",
+            "data-separator-vertical": "^\n\n",
+            "data-separatornotes": "^Note:",
+            "data-charset": "UTF-8"
+        }
+    },
+    "what-is-jsonb.md",
+    "what-is-json.md",
+    "best-of-both.md",
+    "why-would-i-care.md",
+    {
+        "filename": "the-question.md",
+        "attr": {
+            "data-separator": "^\n\n\n",
+            "data-separator-vertical": "^\n\n",
+            "data-separatornotes": "^Note:",
+            "data-charset": "UTF-8"
+        }
+    },
+    {
+        "filename": "the-query.md",
+        "attr": {
+            "data-separator": "^\n\n\n",
+            "data-separator-vertical": "^\n\n",
+            "data-separatornotes": "^Note:",
+            "data-charset": "UTF-8"
+        }
+    },
+
+    "end.md"
+]
